@@ -7,7 +7,7 @@ Data visualization
 	* Transaction based data visualization.
 	* User based Data visualization.
 	*Trend Based data visualization.
-	*Comparison based data visualization.
+	
 
 
 
